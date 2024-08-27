@@ -1,7 +1,6 @@
-### Multiclass:
-Image-Classification--CNN--Transfer-Learning
+# Multiclass Image-Classification--CNN--Transfer-Learning
 ### Objective :
-Learn the basics of computer vision by building a CNN model for image classification, fine-tuning an existing model for the problem statement, and comparing the results
+This project aims to introduce the basics of computer vision through practical implementation. It involves building a Convolutional Neural Network (CNN) model for image classification, fine-tuning an existing model to suit the problem statement, and comparing the performance of the models.
 ### Problem statement : 
 Build a model to effectively identify the names of different food items from the uploaded image
 ### Dataset : 
